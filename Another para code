@@ -1,0 +1,12 @@
+<head>
+<style>
+p {
+color: red;
+font-size: 15px;
+}
+</style>
+</head>
+<body>
+<p>This is a paragraph </p>
+<p>This is another paragraph </p>
+</body>
