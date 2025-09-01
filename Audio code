@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Adding Audio </title>
+</head>
+<body>
+<h1>Let's Play Music</h1>
+<audio controls loop>
+    <source src="music.mp3">
+</audio>
+</body>
+</html>
