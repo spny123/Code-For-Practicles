@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>Famous Indian Mathematicians</title>
+<style>
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: lightgreen;
+    color: green;
+    text-align: center;
+    padding: 1em;
+}
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.mathematician-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 15px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.mathematician-card img {
+    max-width: 100%;
+    border-radius: 4px;
+}
+</style>
+</head>
+<body>
+
+<h1>Famous Indian Mathematicians</h1>
+
+<div class="main">
+
+<div class="mathematician-card">
+<img src="ramanujan.jpg" alt="Srinivasa Ramanujan">
+<h2>Srinivasa Ramanujan</h2>
+<p>Contributions: Number Theory, Mathematical Analysis</p>
+</div>
+
+<div class="mathematician-card">
+<img src="shakuntala-devi.jpg" alt="Shakuntala Devi">
+<h2>Shakuntala Devi</h2>
+<p>Contributions: Mental Calculation, Author of Mathematics Books</p>
+</div>
+
+<div class="mathematician-card">
+<img src="abhay-ashtekar.jpg" alt="Abhay Ashtekar">
+<h2>Abhay Ashtekar</h2>
+<p>Contributions: Quantum Gravity, Loop Quantum Gravity</p>
+</div>
+
+</div>
+
+</body>
+</html>
