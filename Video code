@@ -1,0 +1,19 @@
+<html>
+<head>
+<title> Adding Video </title>
+<style>
+video {
+  border: 5px groove darkblue;
+  padding: 30px;
+  width: auto;
+  height: auto;
+}
+</style>
+</head>
+<body>
+<h1>Let's Play Video</h1>
+<video controls>
+<source src="video.mp4">
+</video>
+</body>
+</html>
